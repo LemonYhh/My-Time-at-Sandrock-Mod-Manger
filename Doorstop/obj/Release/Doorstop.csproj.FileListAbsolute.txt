@@ -1,0 +1,9 @@
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Release\Doorstop.dll
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Release\Doorstop.pdb
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Release\Doorstop.csproj.AssemblyReference.cache
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Release\Doorstop.csproj.CoreCompileInputs.cache
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Release\Doorstop.dll
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Release\Doorstop.pdb
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Release\Newtonsoft.Json.dll
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Release\Newtonsoft.Json.xml
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Release\Doorstop.csproj.CopyComplete

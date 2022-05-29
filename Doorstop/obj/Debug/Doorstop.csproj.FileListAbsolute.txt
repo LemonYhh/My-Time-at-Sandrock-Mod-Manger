@@ -1,0 +1,6 @@
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Debug\Doorstop.dll
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\bin\Debug\Doorstop.pdb
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Debug\Doorstop.csproj.AssemblyReference.cache
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Debug\Doorstop.csproj.CoreCompileInputs.cache
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Debug\Doorstop.dll
+D:\Dev\VisualStudioProjects\Doorstop\Doorstop\obj\Debug\Doorstop.pdb
