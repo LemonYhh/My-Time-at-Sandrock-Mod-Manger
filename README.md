@@ -6,6 +6,8 @@
 
 如果你有问题，可以在QQ交流群里找我：735039954
 
+个人制作的简单Mod：https://xlem.lanzouj.com/b05537zyf
+
 ### 使用
 
 解压压缩包到游戏根目录即可，一个version.dll文件和一个Data文件夹，Mod解压后放到Data\Mods文件夹下
